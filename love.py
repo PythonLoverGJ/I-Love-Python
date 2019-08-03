@@ -1,3 +1,3 @@
 from __future__ import print_function
 
-print("I Love Python!")
+print("I Hate Python!!!")
